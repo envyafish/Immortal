@@ -1,6 +1,13 @@
-{
-  "latest": "1.2.0",
+﻿{
+  "latest": "1.2.1",
   "items": [
+    {
+      "version": "1.2.1",
+      "docker_image": "envyafish/immortal:1.2.1",
+      "notes": [
+        "🛠️ 修复多个入口订阅影片提示缺失索引的异常"
+      ]
+    },
     {
       "version": "1.2.0",
       "docker_image": "envyafish/immortal:1.2.0",
