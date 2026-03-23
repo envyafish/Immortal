@@ -1,0 +1,21 @@
+﻿{
+  "latest": "1.9.0",
+  "items": [
+    {
+      "version": "1.9.0",
+      "docker_image": "envyafish/immortal:1.9.0",
+      "notes": [
+        "修复清理小文件工具的参数异常",
+        "新增版本更新检查功能",
+        "新增更新日志记录"
+      ]
+    },
+    {
+      "version": "1.1.8",
+      "docker_image": "envyafish/immortal:1.1.8",
+      "notes": [
+        "修复 Transmission 下载错误异常"
+      ]
+    }
+  ]
+}

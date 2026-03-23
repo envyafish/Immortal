@@ -56,3 +56,14 @@ Bug Issue 地址：
 
 这类 Issue 可能会被 **直接关闭 (closed without discussion)**。
 
+---
+
+# Changelog
+
+[CHANGELOG.md](./CHANGELOG.md)
+
+# Update Metadata
+
+[latest.json](./latest.json)
+
+[versions.json](./versions.json)
