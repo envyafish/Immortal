@@ -67,3 +67,45 @@ Bug Issue 地址：
 [latest.json](./latest.json)
 
 [versions.json](./versions.json)
+
+---
+
+# Docker Compose
+
+```yaml
+services:
+  immortal:
+    image: envyafish/immortal:latest
+    container_name: immortal
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/data
+    environment:
+      DATABASE_URL: <postgresql://user:password@host:port/db>
+      # 或使用下面这组 PostgreSQL 配置，二选一
+      POSTGRES_HOST: <HOST>
+      POSTGRES_PORT: <PORT>
+      POSTGRES_USER: <USER>
+      POSTGRES_PASSWORD: <PASSWORD>
+      POSTGRES_DB: <DB>
+```
+
+启动：
+
+```bash
+docker compose up -d
+```
+
+更新到新版本：
+
+```bash
+docker compose pull
+docker compose up -d --force-recreate
+```
+
+如果你想查看更新内容：
+
+- [CHANGELOG.md](./CHANGELOG.md)
+- [latest.json](./latest.json)
+- [versions.json](./versions.json)
