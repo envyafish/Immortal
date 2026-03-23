@@ -1,6 +1,6 @@
 ﻿{
   "version": "1.2.0",
-  "docker_image": "envyafish/immortal:1.9.0",
+  "docker_image": "envyafish/immortal:1.2.0",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/main/CHANGELOG.md",
   "notes": [
