@@ -1,8 +1,8 @@
-﻿{
+{
   "version": "1.2.0",
   "docker_image": "envyafish/immortal:1.2.0",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
-  "changelog_url": "https://github.com/envyafish/Immortal/blob/main/CHANGELOG.md",
+  "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
     "修复清理小文件工具的参数异常",
     "新增版本更新检查功能",
