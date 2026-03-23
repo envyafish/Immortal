@@ -1,14 +1,9 @@
-﻿{
-  "version": "1.3.1",
-  "docker_image": "envyafish/immortal:1.3.1",
+{
+  "version": "1.3.2",
+  "docker_image": "envyafish/immortal:1.3.2",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "🛠️ 修复若干已知问题，提升订阅与版本检测相关流程的稳定性",
-    "🤖 优化 TG / Discord 交互判断，番号消息会优先按订阅流程直接处理",
-    "✨ 调整 `AvBase 上新同步`，改为以当天为基准，按前后偏移天数同步范围内的影片",
-    "⚡ 新增影片订阅后立即异步执行一次订阅下载",
-    "🎛️ 调整榜单过滤方式，将站点切换抽离到页面顶部",
-    "📝 已保存的 `AvBase 上新同步` 任务需要重新配置参数，原 `offset_days` / `target_date` 不再生效"
+    "调整前端部分组件样式"
   ]
 }
