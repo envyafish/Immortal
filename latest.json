@@ -1,12 +1,10 @@
 {
-  "version": "1.4.0",
-  "docker_image": "envyafish/immortal:1.4.0",
+  "version": "1.4.1",
+  "docker_image": "envyafish/immortal:1.4.1",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "🎯 分页组件新增页码跳转，翻页操作更直接。",
-    "🚫 新增番号前缀黑名单，可用于榜单订阅、演员订阅和综合订阅过滤。",
-    "🛠️ 修复 Telegram 机器人菜单丢失的问题。",
-    "🛡️ 修复图书馆演员榜单与影片榜单同时触发时，导致 FlareSolverr 实例被异常关闭的问题。"
+    "🧭 流转法则新增站点维度，站点、板块、分类现已支持多选配置。",
+    "🧩 综合订阅新增发行商、制作商、系列、类型下拉选择，并保留文本输入与筛选能力。"
   ]
 }

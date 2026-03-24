@@ -1,6 +1,14 @@
 {
-  "latest": "1.4.0",
+  "latest": "1.4.1",
   "items": [
+    {
+      "version": "1.4.1",
+      "docker_image": "envyafish/immortal:1.4.1",
+      "notes": [
+        "🧭 流转法则新增站点维度，站点、板块、分类现已支持多选配置。",
+        "🧩 综合订阅新增发行商、制作商、系列、类型下拉选择，并保留文本输入与筛选能力。"
+      ]
+    },
     {
       "version": "1.4.0",
       "docker_image": "envyafish/immortal:1.4.0",
