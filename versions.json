@@ -1,6 +1,13 @@
 {
-  "latest": "1.3.2",
+  "latest": "1.3.3",
   "items": [
+    {
+      "version": "1.3.3",
+      "docker_image": "envyafish/immortal:1.3.3",
+      "notes": [
+        "修复跳过 rebuild 直接更新容器导致的版本号滞后"
+      ]
+    },
     {
       "version": "1.3.2",
       "docker_image": "envyafish/immortal:1.3.2",
