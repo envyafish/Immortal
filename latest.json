@@ -1,12 +1,9 @@
 {
-  "version": "1.5.2",
-  "docker_image": "envyafish/immortal:1.5.2",
+  "version": "1.5.3",
+  "docker_image": "envyafish/immortal:1.5.3",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "🛠️ 修复若干已知问题，进一步提升整体稳定性,附带一些未知BUG。",
-    "⚡ 新增多项数据库索引，显著提升查询速度。",
-    "🎯 文章现已支持自动提取番号，匹配与检索更准确。",
-    "⏳ 新版本首次启动时会初始化文章番号，请耐心等待启动完成。"
+    "🛠️ 修复若干已知问题，进一步提升整体稳定性"
   ]
 }

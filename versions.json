@@ -1,6 +1,13 @@
 {
-  "latest": "1.5.2",
+  "latest": "1.5.3",
   "items": [
+    {
+      "version": "1.5.3",
+      "docker_image": "envyafish/immortal:1.5.3",
+      "notes": [
+        "🛠️ 修复若干已知问题，进一步提升整体稳定性"
+      ]
+    },
     {
       "version": "1.5.2",
       "docker_image": "envyafish/immortal:1.5.2",
