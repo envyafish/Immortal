@@ -1,12 +1,10 @@
 {
-  "version": "1.5.4",
-  "docker_image": "envyafish/immortal:1.5.4",
+  "version": "1.5.5",
+  "docker_image": "envyafish/immortal:1.5.5",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "🛠️ 修复若干已知问题，进一步提升整体稳定性与使用体验。",
-    "🚫 灵犀偏号新增关键字黑名单，过滤配置更灵活。",
-    "🆕 新增转贴交流板块，内容浏览更便捷。",
-    "📄 文章爬取新增起始页码配置，采集范围控制更高效。"
+    "🤖 优化 Agent 智能体能力，提升交互与处理体验。",
+    "🛠️ 修复部分已知问题，进一步增强整体稳定性。"
   ]
 }

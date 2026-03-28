@@ -1,6 +1,14 @@
 {
-  "latest": "1.5.4",
+  "latest": "1.5.5",
   "items": [
+    {
+      "version": "1.5.5",
+      "docker_image": "envyafish/immortal:1.5.5",
+      "notes": [
+        "🤖 优化 Agent 智能体能力，提升交互与处理体验。",
+        "🛠️ 修复部分已知问题，进一步增强整体稳定性。"
+      ]
+    },
     {
       "version": "1.5.4",
       "docker_image": "envyafish/immortal:1.5.4",
