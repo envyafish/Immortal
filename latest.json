@@ -1,10 +1,10 @@
 {
-  "version": "1.5.5",
-  "docker_image": "envyafish/immortal:1.5.5",
+  "version": "1.5.6",
+  "docker_image": "envyafish/immortal:1.5.6",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "🤖 优化 Agent 智能体能力，提升交互与处理体验。",
-    "🛠️ 修复部分已知问题，进一步增强整体稳定性。"
+    "🤖 优化 Agent 智能体能力，进一步提升交互响应与处理体验。",
+    "📝 调整通知模板结构，推送字段更统一、展示更清晰。"
   ]
 }
