@@ -1,6 +1,14 @@
 {
-  "latest": "1.5.8",
+  "latest": "1.5.9",
   "items": [
+    {
+      "version": "1.5.9",
+      "docker_image": "envyafish/immortal:1.5.9",
+      "notes": [
+        "↩️ 回滚入库状态的判断逻辑",
+        "⏱️ 取消定时任务 cron 最小间隔的限制"
+      ]
+    },
     {
       "version": "1.5.8",
       "docker_image": "envyafish/immortal:1.5.8",

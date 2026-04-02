@@ -1,12 +1,11 @@
 {
-  "version": "1.5.8",
-  "docker_image": "envyafish/immortal:1.5.8",
+  "version": "1.5.9",
+  "docker_image": "envyafish/immortal:1.5.9",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "📋 推送模板新增在库状态字段",
-    "🎨 调整榜单筛选器按钮的位置",
-    "✨ 过滤器、排序器新增新模型",
-    "⚡ 优化媒体库在库查询逻辑，新增命中缓存"
+    "↩️ 回滚入库状态的判断逻辑",
+    "⏱️ 取消定时任务 cron 最小间隔的限制"
+
   ]
 }
