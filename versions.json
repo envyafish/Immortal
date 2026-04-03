@@ -1,6 +1,13 @@
 {
-  "latest": "1.5.9",
+  "latest": "1.5.10",
   "items": [
+    {
+      "version": "1.5.10",
+      "docker_image": "envyafish/immortal:1.5.10",
+      "notes": [
+        "🔍 优化巡天鉴影片搜索"
+      ]
+    },
     {
       "version": "1.5.9",
       "docker_image": "envyafish/immortal:1.5.9",

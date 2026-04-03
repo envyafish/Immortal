@@ -1,11 +1,9 @@
 {
-  "version": "1.5.9",
-  "docker_image": "envyafish/immortal:1.5.9",
+  "version": "1.5.10",
+  "docker_image": "envyafish/immortal:1.5.10",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "↩️ 回滚入库状态的判断逻辑",
-    "⏱️ 取消定时任务 cron 最小间隔的限制"
-
+    "🔍 优化巡天鉴影片搜索"
   ]
 }
