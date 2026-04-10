@@ -1,9 +1,9 @@
 {
-  "version": "1.5.10",
-  "docker_image": "envyafish/immortal:1.5.10",
+  "version": "1.5.11",
+  "docker_image": "envyafish/immortal:1.5.11",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "🔍 优化巡天鉴影片搜索"
+    "媒体服务器新增极影视"
   ]
 }

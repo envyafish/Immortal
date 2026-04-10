@@ -1,6 +1,13 @@
 {
-  "latest": "1.5.10",
+  "latest": "1.5.11",
   "items": [
+    {
+      "version": "1.5.11",
+      "docker_image": "envyafish/immortal:1.5.11",
+      "notes": [
+        "✨ 媒体服务器新增极影视"
+      ]
+    },
     {
       "version": "1.5.10",
       "docker_image": "envyafish/immortal:1.5.10",
