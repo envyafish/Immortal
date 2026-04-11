@@ -1,6 +1,14 @@
 {
-  "latest": "1.5.11",
+  "latest": "1.5.12",
   "items": [
+    {
+      "version": "1.5.12",
+      "docker_image": "envyafish/immortal:1.5.12",
+      "notes": [
+        "🎨 调整影片显示图片时的状态样式",
+        "📍 优化 Dialog 在页面中的展示位置"
+      ]
+    },
     {
       "version": "1.5.11",
       "docker_image": "envyafish/immortal:1.5.11",
