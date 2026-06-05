@@ -1,6 +1,13 @@
 {
-  "latest": "1.5.12",
+  "latest": "1.5.13",
   "items": [
+    {
+      "version": "1.5.13",
+      "docker_image": "envyafish/immortal:1.5.13",
+      "notes": [
+        "🛠️ 修复微信推送缺失标题的 BUG"
+      ]
+    },
     {
       "version": "1.5.12",
       "docker_image": "envyafish/immortal:1.5.12",

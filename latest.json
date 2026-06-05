@@ -1,10 +1,9 @@
 {
-  "version": "1.5.12",
-  "docker_image": "envyafish/immortal:1.5.12",
+  "version": "1.5.13",
+  "docker_image": "envyafish/immortal:1.5.13",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "🎨 调整影片显示图片时的状态样式",
-    "📍 优化 Dialog 在页面中的展示位置"
+    "🛠️ 修复微信推送缺失标题的 BUG"
   ]
 }
