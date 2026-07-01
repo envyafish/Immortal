@@ -1,9 +1,10 @@
 {
-  "version": "1.5.13",
-  "docker_image": "envyafish/immortal:1.5.13",
+  "version": "1.6.0",
+  "docker_image": "envyafish/immortal:1.6.0",
   "docker_url": "https://hub.docker.com/r/envyafish/immortal",
   "changelog_url": "https://github.com/envyafish/Immortal/blob/master/CHANGELOG.md",
   "notes": [
-    "🛠️ 修复微信推送缺失标题的 BUG"
+    "🛠️ 修复 BUG",
+    "🧭 新增人话版本导航"
   ]
 }
