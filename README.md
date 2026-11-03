@@ -7,3 +7,4 @@
 | 镜像 | 拉取量 | 拉取命令 |
 | --- | --- | --- |
 | [ansellll/article](https://hub.docker.com/r/ansellll/article) | [![pulls](https://img.shields.io/docker/pulls/ansellll/article?label=pulls)](https://hub.docker.com/r/ansellll/article) | `docker pull ansellll/article` |
+| [zibuqingyan/immortal](https://hub.docker.com/r/zibuqingyan/immortal) | [![pulls](https://img.shields.io/docker/pulls/zibuqingyan/immortal?label=pulls)](https://hub.docker.com/r/zibuqingyan/immortal) | `docker pull zibuqingyan/immortal` |
